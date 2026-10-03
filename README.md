@@ -2,6 +2,7 @@
 
 ## Задание 1
 Скриншот раздела оповещений Prometheus, где оповещение находится в статусе Pending:
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/42c1cdfa-5091-4f84-8047-228398fc4e6e" />
 
 
 ## Задание 2
