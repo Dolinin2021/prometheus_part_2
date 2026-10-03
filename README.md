@@ -18,8 +18,11 @@
 
 ## Задание 3
 1) Скриншот браузера с открытым эндпоинтом:
+   
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/feaca660-3146-404c-8c2c-c24292cb4209" />
 
   
-4) Скриншот списка таргетов из интерфейса Prometheus:
+2) Скриншот списка таргетов из интерфейса Prometheus:
 
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/4382b519-c480-41b4-b30e-b9ff8ed483d3" />
 
