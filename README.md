@@ -9,8 +9,11 @@
 ## Задание 2
 1) Cкриншот Alerts из Prometheus, где правило оповещения находится в статусе Fireing:
 
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/9aa078ca-1e32-41e9-a1e0-7dbb6c6b6ca1" />
 
 2) Скриншот из Alertmanager, где видно действующее правило оповещения:
+
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/60afa67d-fc57-4cbe-9a1b-62ec78d5efa6" />
 
 
 ## Задание 3
